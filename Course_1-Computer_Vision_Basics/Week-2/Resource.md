@@ -1,0 +1,4 @@
+- Types of Light Sources: http://ieslightlogic.org/choosing-the-right-light-source-point-linear-and-area/
+- Pinhole Camera – How it works: https://www.youtube.com/watch?v=_TYwlDsdNcY
+- Reinventing the Eye: https://medium.com/@verajaneseegers/computer-vision-the-reinvention-of-the-eye-1d741721bf5c
+- Color Theory: https://en.wikipedia.org/wiki/Color_theory
